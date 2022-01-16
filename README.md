@@ -1,6 +1,8 @@
 # kickstarter-analysis
 Performing analysis on kickstarter data to uncover trends. 
-# Louise’s Kickstarter Analysis (by Maha Shah) 
+
+
+# Louise’s Kickstarter Analysis 
 
 ## Overview of the Project 
 
